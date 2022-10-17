@@ -7,3 +7,6 @@ string handling
 collection
 exception handlingg
 arrays
+class and object
+identifiers
+primitive data type
